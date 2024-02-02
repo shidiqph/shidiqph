@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Shidiq Permana Hidayat
-Welcome to my digital playground, where lines of code dance to the rhythm of innovation! As a passionate developer, I thrive on transforming ideas into tangible solutions. With a curious mind and a keyboard at hand, I embark on a journey of continuous learning and creative problem-solving. Join me as we explore the endless possibilities of technology and shape the future, one commit at a time. Let's build something extraordinary together!
+Welcome to my digital playground, where lines of code dance to the rhythm of innovation! As a seasoned frontend web developer with over 4 years of experience, I thrive on transforming ideas into tangible solutions. With a curious mind and a keyboard at hand, I embark on a journey of continuous learning and creative problem-solving. Join me as we explore the endless possibilities of technology and shape the future, one commit at a time. Let's build something extraordinary together!
 
 ### Tech Stack
 <p align="left">
