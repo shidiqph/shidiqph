@@ -1,6 +1,9 @@
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shidiqph&label=Profile%20views&color=0e75b6&style=flat" alt="shidiqph" /> </p>
+
 ### Hi! 👋 I'm Shidiq Permana Hidayat
 Welcome to my digital playground, where lines of code dance to the rhythm of innovation! As a seasoned frontend web developer with over 4 years of experience, I thrive on transforming ideas into tangible solutions. With a curious mind and a keyboard at hand, I embark on a journey of continuous learning and creative problem-solving. Join me as we explore the endless possibilities of technology and shape the future, one commit at a time. Let's build something extraordinary together!
 
+- 📫 How to reach me **shidiq021100@gmail.com**
 ### Tech Stack
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -51,4 +54,7 @@ Welcome to my digital playground, where lines of code dance to the rhythm of inn
 <a href="https://instagram.com/shidiqph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shidiqph" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shidiqph&show_icons=true&title_color=487ffe&text_color=ffffff&bg_color=487ffe&locale=en" alt="shidiqph" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shidiqph&show_icons=true&title_color=34a6fe&text_color=ffffff&bg_color=0d1117&locale=en" alt="shidiqph" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shidiqph" alt="shidiqph" /></a> </p>
