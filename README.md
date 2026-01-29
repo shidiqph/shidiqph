@@ -54,7 +54,3 @@ Welcome to my digital playground, where lines of code dance to the rhythm of inn
 <a href="https://instagram.com/shidiqph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shidiqph" height="30" width="40" /></a>
 </p>
 
-### GitHub Statistic
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shidiqph&show_icons=true&title_color=34a6fe&text_color=ffffff&bg_color=0d1117&locale=en" alt="shidiqph" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shidiqph" alt="shidiqph" /></a> </p>
